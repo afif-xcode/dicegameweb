@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    font-size: 100px;
+}
+.row {
+     display: flex;
+     width: 25%;
+     align-items: center;
+}
+.column1{
+    padding-left: 200px;
+    text-align: center;
+    font-family:cursive;
+    font-size: 20px;
+}
+.column2{
+    padding-left: 600px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+}
